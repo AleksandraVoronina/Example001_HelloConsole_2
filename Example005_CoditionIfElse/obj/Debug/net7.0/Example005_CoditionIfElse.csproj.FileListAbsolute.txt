@@ -1,0 +1,14 @@
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example005_CoditionIfElse/obj/Debug/net7.0/Example005_CoditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example005_CoditionIfElse/obj/Debug/net7.0/Example005_CoditionIfElse.AssemblyInfoInputs.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example005_CoditionIfElse/obj/Debug/net7.0/Example005_CoditionIfElse.AssemblyInfo.cs
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example005_CoditionIfElse/obj/Debug/net7.0/Example005_CoditionIfElse.csproj.CoreCompileInputs.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example005_CoditionIfElse/bin/Debug/net7.0/Example005_CoditionIfElse
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example005_CoditionIfElse/bin/Debug/net7.0/Example005_CoditionIfElse.deps.json
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example005_CoditionIfElse/bin/Debug/net7.0/Example005_CoditionIfElse.runtimeconfig.json
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example005_CoditionIfElse/bin/Debug/net7.0/Example005_CoditionIfElse.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example005_CoditionIfElse/bin/Debug/net7.0/Example005_CoditionIfElse.pdb
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example005_CoditionIfElse/obj/Debug/net7.0/Example005_CoditionIfElse.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example005_CoditionIfElse/obj/Debug/net7.0/refint/Example005_CoditionIfElse.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example005_CoditionIfElse/obj/Debug/net7.0/Example005_CoditionIfElse.pdb
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example005_CoditionIfElse/obj/Debug/net7.0/Example005_CoditionIfElse.genruntimeconfig.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example005_CoditionIfElse/obj/Debug/net7.0/ref/Example005_CoditionIfElse.dll
