@@ -1,0 +1,14 @@
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example002_HelloUser/bin/Debug/net7.0/Example002_HelloUser
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example002_HelloUser/bin/Debug/net7.0/Example002_HelloUser.deps.json
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example002_HelloUser/bin/Debug/net7.0/Example002_HelloUser.runtimeconfig.json
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example002_HelloUser/bin/Debug/net7.0/Example002_HelloUser.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example002_HelloUser/bin/Debug/net7.0/Example002_HelloUser.pdb
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.AssemblyInfo.cs
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example002_HelloUser/obj/Debug/net7.0/refint/Example002_HelloUser.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.pdb
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.genruntimeconfig.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example002_HelloUser/obj/Debug/net7.0/ref/Example002_HelloUser.dll
