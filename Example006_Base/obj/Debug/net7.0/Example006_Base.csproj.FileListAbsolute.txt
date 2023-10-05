@@ -1,0 +1,14 @@
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example006_Base/bin/Debug/net7.0/Example006_Base
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example006_Base/bin/Debug/net7.0/Example006_Base.deps.json
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example006_Base/bin/Debug/net7.0/Example006_Base.runtimeconfig.json
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example006_Base/bin/Debug/net7.0/Example006_Base.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example006_Base/bin/Debug/net7.0/Example006_Base.pdb
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example006_Base/obj/Debug/net7.0/Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example006_Base/obj/Debug/net7.0/Example006_Base.AssemblyInfoInputs.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example006_Base/obj/Debug/net7.0/Example006_Base.AssemblyInfo.cs
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example006_Base/obj/Debug/net7.0/Example006_Base.csproj.CoreCompileInputs.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example006_Base/obj/Debug/net7.0/Example006_Base.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example006_Base/obj/Debug/net7.0/refint/Example006_Base.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example006_Base/obj/Debug/net7.0/Example006_Base.pdb
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example006_Base/obj/Debug/net7.0/Example006_Base.genruntimeconfig.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Examples/Example006_Base/obj/Debug/net7.0/ref/Example006_Base.dll
